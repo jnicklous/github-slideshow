@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+To commit or Not commit that is the queestion
 Use the left arrow to go back!
